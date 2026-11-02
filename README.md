@@ -1,52 +1,101 @@
 # IAIO Initiative
+
 ## International Artificial Intelligence Organization Initiative
 
-The IAIO Initiative is an independent policy and research effort exploring the establishment of an International Artificial Intelligence Organization (IAIO).
+### Advancing Governance Frameworks for Artificial Intelligence, Robotics, Autonomous Systems, and Frontier Intelligence
 
-The initiative seeks to advance international cooperation in the governance of Artificial Intelligence, Robotics, Autonomous Systems, and Frontier Intelligence technologies.
+The IAIO Initiative is an independent policy and research effort exploring governance frameworks, operational models, and institutional mechanisms that support the safe, transparent, accountable, and responsible development of Artificial Intelligence (AI), Robotics, Autonomous Systems, and Frontier Intelligence technologies.
 
-Our objective is to explore frameworks that promote:
+The initiative seeks to contribute to the evolving global AI governance ecosystem by identifying governance gaps and proposing practical solutions related to safety oversight, incident investigation, certification, interoperability, and international coordination.
 
-AI Safety
-Transparency
-Accountability
-International Cooperation
-Responsible Innovation
-Cross-Border Governance
-# Why IAIO?
+---
 
-Artificial Intelligence is increasingly global in scope while governance remains fragmented across jurisdictions and institutions. The IAIO Initiative explores whether a dedicated international organization could complement existing AI governance efforts by supporting:
+## Mission
 
-International coordination
-Incident investigation
-Risk management
-Certification frameworks
-Robotics governance
-Frontier AI oversight
-# Current Status
+To advance international cooperation through the development of governance frameworks that support the safe, transparent, accountable, and responsible deployment of artificial intelligence and autonomous technologies.
 
-✅ Executive Brief v1.0 Published
+---
 
-✅ IAIO Roadmap Published
+## Vision
 
-✅ LinkedIn Initiative Launched
+A global AI ecosystem governed by interoperable international frameworks that promote innovation, safety, trust, and shared prosperity for all nations.
 
-🟡 Expert Validation Phase
+---
 
-# Key Documents
-Executive Brief
-Governance Framework
-Strategic Roadmap
-Future White Paper
-Future Convention Draft
-# Website
+## Why This Initiative Exists
 
-https://iaioinitiative.org
+Artificial Intelligence increasingly operates across national borders, affecting:
 
-# Founder
+- Critical Infrastructure
+- Healthcare
+- Financial Services
+- Transportation
+- Public Administration
+- Scientific Research
+- Robotics and Autonomous Systems
+- National and Economic Security
 
-Marlos M. Silva
+Significant progress has been achieved through international organizations, standards bodies, and cooperative initiatives. However, important governance challenges remain, including:
 
-Founder & Lead Author
+- AI Safety Oversight
+- Robotics Governance
+- Autonomous Systems Regulation
+- Frontier AI Risk Management
+- Incident Investigation Mechanisms
+- International Emergency Coordination
+- Global Certification Frameworks
+- Cross-Border Governance and Interoperability
 
-IAIO Initiative
+The IAIO Initiative explores these challenges and develops policy recommendations to support governments, academia, industry, and international institutions.
+
+---
+
+## Strategic Focus Areas
+
+### AI Safety & Risk Governance
+
+- Risk Classification Frameworks
+- Transparency Mechanisms
+- Accountability Models
+- Safety Assurance Approaches
+
+### Robotics & Autonomous Systems
+
+- Humanoid Robotics
+- Autonomous Vehicles
+- Industrial Automation
+- Autonomous Drones
+- Cyber-Physical Systems
+
+### Frontier Intelligence
+
+- Advanced AI Systems
+- Foundation Models
+- Capability Assessment
+- Governance Mechanisms
+- International Monitoring Models
+
+### Incident Investigation
+
+- International AI Incident Review Models
+- Lessons Learned Frameworks
+- Safety Reporting Mechanisms
+
+### International Coordination
+
+- Cross-Border Cooperation
+- Crisis Coordination
+- Information Sharing
+- Governance Interoperability
+
+---
+
+## Current Status
+
+### Completed
+
+- Executive Brief v2.0
+- IAIO Governance Concept
+- Strategic Roadmap
+- Branding & Identity
+- Website Launch
