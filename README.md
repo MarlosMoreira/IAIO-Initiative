@@ -99,3 +99,136 @@ The IAIO Initiative explores these challenges and develops policy recommendation
 - Strategic Roadmap
 - Branding & Identity
 - Website Launch
+- LinkedIn Initiative Launch
+
+### In Progress
+
+- GitHub Knowledge Repository
+- Expert Validation Program
+- Academic Outreach
+- Governance Framework Development
+
+### Upcoming
+
+- White Paper v1.0
+- Expert Advisory Network
+- Academic & Institutional Engagement
+- Global Governance Workshops
+
+---
+
+## Roadmap
+
+### Phase 1 — Foundation & Public Launch ✅
+
+- Governance Concept Development
+- Executive Brief Publication
+- Website Launch
+- Public Awareness
+
+### Phase 2 — Expert Validation
+
+- Expert Outreach
+- Governance Gap Assessment
+- Stakeholder Consultation
+- Proposal Refinement
+
+### Phase 3 — White Paper Development
+
+- Comprehensive Governance Framework
+- Robotics Governance Framework
+- Incident Investigation Model
+- Frontier AI Oversight Framework
+
+### Phase 4 — Institutional Engagement
+
+- Academic Partnerships
+- Think Tank Engagement
+- International Organization Dialogue
+- Government Stakeholder Discussions
+
+### Phase 5 — Governance Architecture Development
+
+- Operational Governance Models
+- Certification Frameworks
+- Safety Oversight Concepts
+- International Coordination Mechanisms
+
+---
+
+## Principles
+
+The IAIO Initiative is guided by the following principles:
+
+- Human-Centric Development
+- Safety by Design
+- Transparency
+- Accountability
+- International Cooperation
+- Technological Neutrality
+- Responsible Innovation
+- Respect for Human Rights and Democratic Values
+
+---
+
+## Publications
+
+### Available
+
+- IAIO Executive Brief v2.0
+
+### Planned
+
+- IAIO White Paper v1.0
+- Robotics Governance Framework
+- AI Incident Investigation Framework
+- Frontier Intelligence Governance Framework
+- International Coordination Blueprint
+
+---
+
+## Get Involved
+
+The IAIO Initiative welcomes contributions and feedback from:
+
+- Researchers
+- Policymakers
+- International Organizations
+- Governments
+- Industry Leaders
+- Civil Society Organizations
+- AI Safety Experts
+- Robotics Specialists
+- International Law Practitioners
+
+Constructive feedback and collaboration are encouraged as part of an open, multidisciplinary dialogue on the future of AI governance.
+
+---
+
+## Website
+
+https://iaioinitiative.org
+
+---
+
+## Connect
+
+### LinkedIn
+
+Follow the IAIO Initiative on LinkedIn for updates, publications, and stakeholder engagement opportunities.
+
+---
+
+## Founder
+
+**Marlos M. Silva**  
+Founder & Lead Author  
+IAIO Initiative
+
+---
+
+### Disclaimer
+
+The IAIO Initiative is an independent policy and research initiative. It is not affiliated with any government, intergovernmental organization, standards body, or international institution.
+
+The initiative seeks to contribute research, governance concepts, and policy recommendations to support global discussions regarding the future governance of artificial intelligence and related technologies.
